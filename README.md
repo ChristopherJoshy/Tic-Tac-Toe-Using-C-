@@ -12,12 +12,12 @@ This project is a command-line implementation of the classic **Tic-Tac-Toe** gam
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/tic-tac-toe-cpp.git
+    git clone https://github.com/yourusername/tic-tac-toe-c++.git
     ```
 
 2. **Navigate to the project folder**:
     ```bash
-    cd tic-tac-toe-cpp
+    cd Tic-Tac-Toe-using-c++
     ```
 
 3. **Compile the code**:
